@@ -1,0 +1,21 @@
+* PrusaSlicer Configuration
+
+** Ender 3 V2
+
+*** Draft quality
+
+    Good for rapid prototyping 
+
+    TODO
+    
+*** Medium quality
+
+    Between draft and production quality
+
+    TODO
+
+*** Production quality
+
+    Takes a lot of time but very neat result
+
+    [[./ender3v2/production/config.ini][Configuration file]]
